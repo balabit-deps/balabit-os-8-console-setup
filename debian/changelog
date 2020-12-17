@@ -1,3 +1,9 @@
+console-setup (1.194ubuntu3bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Thu, 17 Dec 2020 17:04:09 +0100
+
 console-setup (1.194ubuntu3) focal; urgency=medium
 
   [ Mantas Kriaučiūnas ]
